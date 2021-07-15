@@ -1,6 +1,6 @@
 {
-  "name": "narrative vis", "children": [
-    {"name": "scenes", "children": [
+  "name": "ECN", "children": {[
+    {"name": "Customer"},
      {"name": "parameter settings"},
      {"name": "annotation instances"},
      {"name": "UI controls"}]},
