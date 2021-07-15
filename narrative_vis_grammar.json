@@ -1,20 +1,8 @@
 {
-  "name": "ECN", "children": {
-    {"name": "Customer"},
-     {"name": "parameter settings"},
-     {"name": "annotation instances"},
-     {"name": "UI controls"}},
-    {"name": "annotation templates", "children": [
-      {"name": "enter()"},
-      {"name": "transition()"},
-      {"name": "exit()"}]},
-    {"name": "parameters", "children": [
-      {"name": "constants"},
-      {"name": "variables"},
-      {"name": "functions"}]},
-    {"name": "triggers", "children": [
-      {"name": "parameter"},
-      {"name": "timer"},
-      {"name": "event"}]}
+  "name": "narrative vis", "children": [
+    {"name": "scenes"},
+    {"name": "annotation templates"},
+    {"name": "parameters"},
+    {"name": "triggers"}
   ]
 }
