@@ -1,11 +1,6 @@
 {
   "name": "ECN", "children": [
-    {"name": "Interactions"},
-    {"name": "ECN: 106307253"},
-    {"name": "InteractionType: Email"},
-    {"name": "Date: 6/5/2021"},
-    {"name": "Subject: Billing Enquiry"},
-    {"name": "Action : NA"},
+    {"name": "Interactions ECN: 106307253 InteractionType: Email Date: 6/5/2021 Subject: Billing Enquiry Action: NA"},
     {"name": "Billings"},
     {"name": "BillingAccountNumber: BL-336956"}, 
     {"name": "PolicyNumber: 9234J 190395"},
