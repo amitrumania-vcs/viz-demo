@@ -1,6 +1,7 @@
 {
   "name": "narrative vis", "children": [
-    {"name": "scenes"},
+    {"name": "scenes",
+     "name": "scenes2"},
     {"name": "annotation templates"},
     {"name": "parameters"},
     {"name": "triggers"}
