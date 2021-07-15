@@ -1,6 +1,8 @@
 {
   "name": "ECN", "children": [
-    {"name": "INTERACTIONS \r ECN: 106307253, InteractionType: Email, Date: 6/5/2021, Subject: Billing Enquiry Action: NA"},
+    {"name": "INTERACTIONS \r
+         ECN: 106307253, 
+         InteractionType: Email, Date: 6/5/2021, Subject: Billing Enquiry Action: NA"},
     {"name": "BILLINGS BillingAccountNumber: BL-336956, PolicyNumber: 9234J 190395, DueDate: 6/5/2021, PaidAmt: 543   "},
     {"name": "PRODUCTS PolicyNumber: F-589349, PolicyTerm: 12, RenewalDate:  11/25/2021, PremiumAmt: 150, FaceValue: NA "},
     {"name": "CLAIMS ClaimNumber: CL-58934,ClaimType: Auto, ClaimAmt: 500, ClaimRep: John Doe"},            
