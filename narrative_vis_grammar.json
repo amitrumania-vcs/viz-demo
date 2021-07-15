@@ -7,6 +7,14 @@
     {"name": "Cust:2010"},
     {"name": "Prod:222"},
     {"name": "Full:0232"},
-    {"name": "Type: Auto"}    
+    {"name": "Type: Auto"}, 
+    {"name": "Cust:2010"},
+    {"name": "Prod:222"},
+    {"name": "Full:0232"},
+    {"name": "Type: Auto"},
+    {"name": "Cust:2010"},
+    {"name": "Prod:222"},
+    {"name": "Full:0232"},
+    {"name": "Type: Auto"}
   ]
 }
