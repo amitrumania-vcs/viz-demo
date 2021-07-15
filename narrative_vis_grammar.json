@@ -1,9 +1,9 @@
 {
-  "name": "ECN", "children": {[
+  "name": "ECN", "children": {
     {"name": "Customer"},
      {"name": "parameter settings"},
      {"name": "annotation instances"},
-     {"name": "UI controls"}]},
+     {"name": "UI controls"}},
     {"name": "annotation templates", "children": [
       {"name": "enter()"},
       {"name": "transition()"},
