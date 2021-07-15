@@ -1,10 +1,12 @@
 {
-  "name": "narrative vis", "children": [
-    {"name": "scenes",
-     "name": "scenes2"},
-    {"name": "annotation templates"},
-    {"name": "parameters"},
-    {"name": "triggers"}
+  "name": "ECN", "children": [
+    {"name": "Cust:2010"},
+    {"name": "Prod:222"},
+    {"name": "Full:0232"},
+    {"name": "Type: Auto"},
+    {"name": "Cust:2010"},
+    {"name": "Prod:222"},
+    {"name": "Full:0232"},
+    {"name": "Type: Auto"}    
   ]
 }
-
